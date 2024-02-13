@@ -1,4 +1,5 @@
-This is the prototype of a game created for Master's thesis. 
+This is the prototype of a game created for Master's thesis "GENERATIVE ARTIFICIAL INTELLIGENCES: CHALLENGES AND BENEFITS FOR GAME DEVELOPMENT" by Tomi Linkinen.
+
 In this repository all relevant files can be found to run the prototype in unreal engine 5.
 Additionally there is two music files, for the games music, one created in AIVA and another, final piece that was composed and edited by me in Cubase DAW.
 
